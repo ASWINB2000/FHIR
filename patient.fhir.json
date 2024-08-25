@@ -1,0 +1,35 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Aswin"],
+            "family": "Kuttimelathil"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "2000-10-02",
+    "telecom": [
+    {
+        "value": "9847049032",
+        "use": "mobile",
+        "system": "phone"
+    },
+    {
+        "system": "email",
+        "value": "aswinb@gmail.com"
+    }
+    ],
+    "address": [
+        {
+            "line": [
+                "213 diamond road"
+            ],
+            "city": "Trivandrum",
+            "state": "kerala",
+            "postalCode": "54321"
+        }
+    ]
+    
+    
+    }
